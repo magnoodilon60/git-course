@@ -7,3 +7,4 @@ git status
 
 git commit -m "Add Readme.md"
 
+git log mostra:
