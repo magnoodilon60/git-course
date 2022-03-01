@@ -25,3 +25,8 @@ git diff --name-only mostra os arquivos que sofreram alterações
 git checkout (nome do arquivo)retorna o status anterior do arquivo
 
 git reset HEAD (NOME DO ARQUIVO) retira ele do modo add, retorna para modified
+
+
+teste 
+etete
+
